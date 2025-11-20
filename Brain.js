@@ -1,1 +1,0 @@
-alert("Click 'OK' MEOW-MEOW")

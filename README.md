@@ -1,2 +1,0 @@
-# himupvt
-My pvt. repository.

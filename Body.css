@@ -1,0 +1,23 @@
+body {
+    background-color: hotpink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    padding: 49px;
+    text-align: center;
+}
+
+h1{
+    animation : glow 3s ease-in-out infinite alternate;
+}
+
+p {
+    font-size: 2em;
+    animation: fadeIn 2s ease forwards;
+    opacity: 0;
+}
+
+@keyframes fadeIn {
+    to {
+        opacity:2;
+    }
+}
